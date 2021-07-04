@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Shape Generator</string>
+    <string name="length">Length:</string>
+    <string name="width">Width: </string>
+    <string name="radius">Radius:</string>
+    <string name="Ok">Ok</string>
+    <string name="length_or_width">Length/Width</string>
+    <string name="side_length">Side Length</string>
+    <string name="select_shape">Select Shape</string>
+    <string name="select_color">Your Artboard</string>
+    <string name="generate_shape">Generate Shape</string>
+    <string name="enter_length_error_msg">Please enter the Length of the Rectangle</string>
+    <string name="enter_width_error_msg">Please enter the Width of the Rectangle</string>
+    <string name="enter_radius_error_msg">Please enter the Radius of a Circle.</string>
+    <string name="enter_length_width_error_msg">Please enter the Length/Width of a square</string>
+    <string name="enter_side_length_of_triangle_error_msg">Please enter the length of Triangle.</string>
+    <string name="radius_greater_than_half_of_width_error_msg">The value of radius should be greater than 0 and cannot exceed, %1$s px for a circle.</string>
+    <string name="height_width_greater_than_bitmap_image_width_error_msg">The value of Length and Width should be greater than 0 and lesser than %1$s px and the value of width should not be greater than %2$s px for a rectangle.</string>
+    <string name="height_or_width_greater_than_bitmap_image_width_error_msg">The value of Length/Width should be greater than 0 and lesser than %1$s px for a square.</string>
+
+    <string name="side_length_greater_than_bitmap_image_width_error_msg">The value of the Triangle side should not be greater than %1$s px for a square.</string>
+
+    <string name="error_dialog_title">Oops!!</string>
+
+    <string name="length_hint">Length in px</string>
+    <string name="width_hint">Length in px</string>
+    <string name="length_or_width_hint">Length/Width in px</string>
+    <string name="radius_hint">Radius in px</string>
+    <string name="side_length_hint">Side Length in px</string>
+</resources>

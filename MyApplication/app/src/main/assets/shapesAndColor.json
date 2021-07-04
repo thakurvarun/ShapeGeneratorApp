@@ -1,0 +1,35 @@
+{
+  "shapes": [
+    {
+      "shape": "Rectangle"
+    },
+    {
+      "shape": "Square"
+    },
+    {
+      "shape": "Circle"
+    }
+  ],
+  "colors" : [
+    {
+      "color": "Red",
+      "color_code": "#e62e00",
+      "stroke_color_code" : "#991f00"
+    },
+    {
+      "color": "Purple",
+      "color_code": "#A175F1",
+      "stroke_color_code" : "#5B05F6"
+    },
+    {
+      "color": "Green",
+      "color_code": "#7EEC8D",
+      "stroke_color_code" : "#06EB25"
+    },
+    {
+      "color": "Yellow",
+      "color_code": "#F3EB88",
+      "stroke_color_code" : "#F8E604"
+    }
+  ]
+}
